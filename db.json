@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "7b4d",
+      "title": "product-1",
+      "image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgyLTI0NS1wLnBuZw.png",
+      "price": "1234"
+    }
+  ],
+  "cart": [
+    {
+      "id": "7b4d",
+      "title": "product-1",
+      "image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgyLTI0NS1wLnBuZw.png",
+      "price": "1234"
+    }
+  ]
+}
